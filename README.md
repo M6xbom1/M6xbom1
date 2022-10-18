@@ -3,4 +3,4 @@ Hi I'm Peed 👋
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=dark)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,js,html,css)](https://skillicons.dev)
