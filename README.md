@@ -2,7 +2,7 @@ Hi I'm Peed 👋
   I'm a Beginner for Programmer. I'm studying at Srinakharinwirot University and this's my Github where my work is stored.
   My interest is Cyber Security to prevent threat actors.
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,php,arduino,unity,c#)](https://skillicons.dev)
 
