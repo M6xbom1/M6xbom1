@@ -8,7 +8,7 @@ https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,php,arduino,unity,c#)](https://skillicons.dev)
 
 ### Contact Me
-|  <a href=""><img src="https://github.com/icon+img/black cat.png" width="150px" height="150px" /></a> |
+|  <a href=""><img src="/icon+img/black cat.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *087-540-4155*|
 |✉️ *thanakit.chatwichian@gmail.com \| *thanakit.cha@g.swu.ac.th|
