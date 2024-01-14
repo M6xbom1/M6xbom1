@@ -49,9 +49,9 @@
     </i>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
-
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
+</div>
   <h3> 💻 Languages and Tools </h3><hr><br>
 
   [![My Skills](https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,php,unity,aws,mysql,linux)](https://skillicons.dev)
