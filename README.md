@@ -43,7 +43,7 @@
     </i>⚙️<br>
     <i>
       • DevOps
-    </i>⚙️<br>
+    </i>💻<br>
       <i>
         • What I do now ? 🌱
       </i><br>
