@@ -21,9 +21,9 @@
     <b>
   </h3>
     <img hight="400" width="500" alt="GIF" align="right" src="icon+img/Darksoul.gif" width="50%"/>
-    <i>&nbsp• BanBung Uttasahakamnukhro school
+    <i>&nbsp&nbsp• BanBung Uttasahakamnukhro school
     &nbsp<img src="icon+img\school_icon.png"><br>
-    &nbsp• Srinakharinwirot University 
+    &nbsp&nbsp• Srinakharinwirot University 
     &nbsp<img src="icon+img\swu_icon.png"><br></i>
   <h3>
     <b>
@@ -40,13 +40,13 @@
       &nbsp &nbsp &nbsp &nbsp- Security Analyst<br>
     </i><br>
     <i>
-      &nbsp • Software Engineer
+      &nbsp&nbsp • Software Engineer
     </i>⚙️<br>
     <i>
-      &nbsp • DevOps
+      &nbsp&nbsp • DevOps
     </i>💻<br>
       <i>
-        &nbsp • What I do now ? 🌱
+        &nbsp&nbsp • What I do now ? 🌱
       </i><br>
     <i>
     &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity isn't  &nbsp &nbsp  &nbsp &nbsp &nbspjust learning, it's a thrilling &nbsphunt for 
