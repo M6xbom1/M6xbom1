@@ -20,7 +20,7 @@
       <u>Educations</u> 🎓<br>
     <b>
   </h3>
-    <img hight="450" width="500" alt="GIF" align="right" src="icon+img/Darksoul.gif" width="50%"/>
+    <img hight="600" width="500" alt="GIF" align="right" src="icon+img/Darksoul.gif" width="50%"/>
     <i>&nbsp&nbsp• BanBung Uttasahakamnukhro school
     &nbsp<img src="icon+img\school_icon.png"><br>
     &nbsp&nbsp• Srinakharinwirot University 
