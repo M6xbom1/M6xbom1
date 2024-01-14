@@ -21,9 +21,9 @@
     <b>
   </h3>
     <img hight="400" width="500" alt="GIF" align="right" src="icon+img/Darksoul.gif" width="50%"/>
-    <i>• BanBung Uttasahakamnukhro school
+    <i>&nbsp• BanBung Uttasahakamnukhro school
     &nbsp<img src="icon+img\school_icon.png"><br>
-    • Srinakharinwirot University 
+    &nbsp• Srinakharinwirot University 
     &nbsp<img src="icon+img\swu_icon.png"><br></i>
   <h3>
     <b>
@@ -43,7 +43,7 @@
       &nbsp • Software Engineer
     </i>⚙️<br>
     <i>
-      • DevOps
+      &nbsp • DevOps
     </i>💻<br>
       <i>
         &nbsp • What I do now ? 🌱
