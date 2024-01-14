@@ -48,7 +48,7 @@
         • What I do now ? 🌱
       </i><br>
     <i>
-    &nbsp &nbsp Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity isn't just learning, it's a thrilling &nbsphunt for solutions, and I'm determined to join the front lines.
+    &nbsp &nbsp -Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity isn't just learning, it's a thrilling &nbsphunt for solutions, and I'm determined to join the front lines.
     </i>
 </p>
 
