@@ -49,7 +49,7 @@
         &nbsp&nbsp • What I do now ? 🌱
       </i><br>
     <i>
-    &nbsp &nbsp &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp&nbsp&nbsp&nbspisn't just learning, it's a thrilling &nbsphunt for 
+    &nbsp &nbsp &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspisn't just learning, it's a thrilling &nbsphunt for 
     solutions, and I'm determined to join the front lines.
     </i>
 </p><br>
