@@ -65,7 +65,7 @@
 <p align="center">
   <a href=""><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/></a> 
   <br><hr>
-    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ✉️ thanakit.chatwichian@gmail.com&nbsp&nbsp&nbsp &nbsp 📞 087-540-4155
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ✉️ thanakit.chatwichian@gmail.com&nbsp&nbsp&nbsp &nbsp 📞 087-540-4155
   <br><br>
   <a href="https://www.linkedin.com/in/thanakit-chatwichian-95a9a2277/">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="icon+img\linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/M6xbom1"><img src="icon+img\github.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.facebook.com/profile.php?id=100007560886499"><img src="icon+img\facebook.png" width="32px" height="32px"></a> &nbsp; &nbsp;<a href="https://www.instagram.com/tnkitty_/"><img src="icon+img\instagram.png" width="32px" height="32px"></a> &nbsp; &nbsp;<a href="https://www.hackerrank.com/profile/m6xbom1"><img src="icon+img\Hacker rank.png" width="32px" height="32px"></a> &nbsp; &nbsp; 
 </p>
