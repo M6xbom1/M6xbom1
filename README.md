@@ -57,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seazabuky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&bg_color=00000000&hide=jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)-->
   <h2> 💻 Languages and Tools </h2><br>
 
   [![My Skills](https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,php,unity,aws,mysql,linux)](https://skillicons.dev)
