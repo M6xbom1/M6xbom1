@@ -31,7 +31,7 @@
     <b>
   </h3>
     <i>
-      • Cyber security
+      &nbsp • Cyber security
     </i>🛡️
       <br>
     <i>
@@ -40,13 +40,13 @@
       &nbsp &nbsp &nbsp &nbsp- Security Analyst<br>
     </i><br>
     <i>
-      • Software Engineer
+      &nbsp • Software Engineer
     </i>⚙️<br>
     <i>
       • DevOps
     </i>💻<br>
       <i>
-        • What I do now ? 🌱
+        &nbsp • What I do now ? 🌱
       </i><br>
     <i>
     &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity isn't  &nbsp &nbsp  &nbsp &nbsp &nbspjust learning, it's a thrilling &nbsphunt for 
