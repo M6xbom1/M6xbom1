@@ -53,7 +53,7 @@
 </p>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
-  <h2> 💻 Languages and Tools </h2><hr><br>
+  <h2> 💻 Languages and Tools </h2><br>
 
   [![My Skills](https://skillicons.dev/icons?i=python,java,c,cs,html,css,js,php,unity,aws,mysql,linux)](https://skillicons.dev)
 
