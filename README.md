@@ -38,7 +38,7 @@
       &nbsp &nbsp &nbsp &nbsp- Network Security Engineer<br>
       &nbsp &nbsp &nbsp &nbsp- Penetration Tester<br>
       &nbsp &nbsp &nbsp &nbsp- Security Analyst<br>
-    </i><br>
+    </i>
     <i>
       &nbsp&nbsp • Software Engineer
     </i>⚙️<br>
