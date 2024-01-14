@@ -6,7 +6,7 @@
 </p>
 <h2>
   <p align="center">
-    ✨This is the GitHub that contains my work.✨
+    ✨ This is the GitHub that contains my work. ✨
   </p>
 </h2>
 <p>
