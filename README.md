@@ -6,7 +6,6 @@
 </p>
 <h2>
   <p align="center">
-    
     This is the GitHub that contains my work.
   </p>
 </h2>
@@ -41,6 +40,9 @@
     </i>
     <i>
       • Software Engineer
+    </i>⚙️<br>
+    <i>
+      • DevOps
     </i>⚙️<br>
       <i>
         • What I do now ? 🌱
