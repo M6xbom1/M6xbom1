@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">
 
-    Hi I'm Mr.Thanakit Chatwichian,My friends call me Jet.👋
+    👋Hi I'm Mr.Thanakit Chatwichian,My friends call me Jet.
   </h1>
 </p>
 <h2>
