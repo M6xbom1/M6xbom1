@@ -50,7 +50,7 @@
     <i>
     &nbsp &nbsp - Now I am studying cyber security. The constant evolution of cyber threats keeps &nbspme on the edge of my seat. Studying cybersecurity isn't just learning, it's a thrilling &nbsphunt for solutions, and I'm determined to join the front lines.
     </i>
-</p>
+</p><br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M6xbom1&show_icons=true&theme=outrun)
   <h2> 💻 Languages and Tools </h2><br>
